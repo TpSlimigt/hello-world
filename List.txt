@@ -1,4 +1,3 @@
 Stone
 Paper
-Hat
 Pants
