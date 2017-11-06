@@ -1,3 +1,4 @@
 Stone
 Paper
 Hat
+Pants
